@@ -4,9 +4,14 @@ Bazı aktüeryal hesaplamaları python kodları ile nasıl hesaplayabileceğimiz
 
 >PROJENİN KAPSAMI:
 
-İskonto tanımı ve iskonto hesabı yapma,
-genel prim hesabı,yaşama olasılığına dayalı prim hesabı,
-bir kişinin yaşama olasılığını hesaplama,
-örnek mortalite tablosu oluşturma ve buna dayalı örnek çözümü,
-anüite tanımı ve buna dayalı örnek uygulama(maaş-taksit hesabı),
-rezerv tanımı ve kodu.
++ İskonto tanımı ve iskonto hesabı yapma,
++ Genel prim hesabı,
++ Yaşama olasılığına dayalı prim hesabı,
++ Bir kişinin yaşama olasılığını hesaplama,
++ Örnek mortalite tablosu oluşturma ve buna dayalı örnek çözümü,
++ Anüite tanımı ve buna dayalı örnek uygulama(maaş-taksit hesabı),
++ Rezerv tanımı 
+
+
+> ÇALIŞTIRMA ADIMLARI VE ÖRNEK ÜZERİNDEN KOD KULLANIMI
++ https://github.com/beyzakayhan852-gif/akt-eryal-hesaplamalar/tree/main/python.py dükümanı içerisinde anlatılmıştır
