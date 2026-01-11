@@ -10,7 +10,6 @@ Bazı aktüeryal hesaplamaları python kodları ile nasıl hesaplayabileceğimiz
 + Bir kişinin yaşama olasılığını hesaplama,
 + Örnek mortalite tablosu oluşturma ve buna dayalı örnek çözümü,
 + Anüite tanımı ve buna dayalı örnek uygulama(maaş-taksit hesabı),
-+ Rezerv tanımı 
 
 
 > ÇALIŞTIRMA ADIMLARI VE ÖRNEK ÜZERİNDEN KOD KULLANIMI
