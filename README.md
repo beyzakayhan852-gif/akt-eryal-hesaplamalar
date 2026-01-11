@@ -1,10 +1,8 @@
-BEYZA KAYHAN-232718033
-
-Projenin amacı:
+>PROJENİN AMACI:
 
 Bazı aktüeryal hesaplamaları python kodları ile nasıl hesaplayabileceğimizi öğrenmemize yardımcı olur
 
-Projenin kapsamı:
+>PROJENİN KAPSAMI:
 
 İskonto tanımı ve iskonto hesabı yapma,
 genel prim hesabı,yaşama olasılığına dayalı prim hesabı,
